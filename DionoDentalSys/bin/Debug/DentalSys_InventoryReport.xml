@@ -1,0 +1,203 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <InventoryReport>
+    <SuppID>S0000001</SuppID>
+    <SuppDesc>Perioguard</SuppDesc>
+    <Qty>-5</Qty>
+    <Unit>pc</Unit>
+    <SalesPrice>350</SalesPrice>
+    <Status>1</Status>
+  </InventoryReport>
+  <InventoryReport>
+    <SuppID>S0000002</SuppID>
+    <SuppDesc>Roth Brackets 022</SuppDesc>
+    <Qty>8</Qty>
+    <Unit />
+    <SalesPrice>0</SalesPrice>
+    <Status>1</Status>
+  </InventoryReport>
+  <InventoryReport>
+    <SuppID>S0000003</SuppID>
+    <SuppDesc>anesthesia FD</SuppDesc>
+    <Qty>-1</Qty>
+    <Unit>pcs</Unit>
+    <SalesPrice>0</SalesPrice>
+    <Status>1</Status>
+  </InventoryReport>
+  <InventoryReport>
+    <SuppID>S0000004</SuppID>
+    <SuppDesc>fiber (interlig)</SuppDesc>
+    <Qty>-1</Qty>
+    <Unit>pcs</Unit>
+    <SalesPrice>0</SalesPrice>
+    <Status>1</Status>
+  </InventoryReport>
+  <InventoryReport>
+    <SuppID>S0000005</SuppID>
+    <SuppDesc>t4b</SuppDesc>
+    <Qty>-1</Qty>
+    <Unit>pc</Unit>
+    <SalesPrice>7000</SalesPrice>
+    <Status>1</Status>
+  </InventoryReport>
+  <InventoryReport>
+    <SuppID>S0000006</SuppID>
+    <SuppDesc>scalpel</SuppDesc>
+    <Qty>0</Qty>
+    <Unit>pcs</Unit>
+    <SalesPrice>0</SalesPrice>
+    <Status>1</Status>
+  </InventoryReport>
+  <InventoryReport>
+    <SuppID>S0000007</SuppID>
+    <SuppDesc>etchant gel big</SuppDesc>
+    <Qty>0</Qty>
+    <Unit>pc</Unit>
+    <SalesPrice>0</SalesPrice>
+    <Status>1</Status>
+  </InventoryReport>
+  <InventoryReport>
+    <SuppID>S0000008</SuppID>
+    <SuppDesc>celluloid strips</SuppDesc>
+    <Qty>0</Qty>
+    <Unit>boxes</Unit>
+    <SalesPrice>0</SalesPrice>
+    <Status>1</Status>
+  </InventoryReport>
+  <InventoryReport>
+    <SuppID>S0000009</SuppID>
+    <SuppDesc>suture</SuppDesc>
+    <Qty>0</Qty>
+    <Unit>pcs</Unit>
+    <SalesPrice>0</SalesPrice>
+    <Status>1</Status>
+  </InventoryReport>
+  <InventoryReport>
+    <SuppID>S0000010</SuppID>
+    <SuppDesc>articulating paper</SuppDesc>
+    <Qty>0</Qty>
+    <Unit>pads</Unit>
+    <SalesPrice>0</SalesPrice>
+    <Status>1</Status>
+  </InventoryReport>
+  <InventoryReport>
+    <SuppID>S0000012</SuppID>
+    <SuppDesc>self cure powder big</SuppDesc>
+    <Qty>0</Qty>
+    <Unit>pack</Unit>
+    <SalesPrice>0</SalesPrice>
+    <Status>1</Status>
+  </InventoryReport>
+  <InventoryReport>
+    <SuppID>S0000013</SuppID>
+    <SuppDesc>dental needle G27</SuppDesc>
+    <Qty>0</Qty>
+    <Unit>box</Unit>
+    <SalesPrice>0</SalesPrice>
+    <Status>1</Status>
+  </InventoryReport>
+  <InventoryReport>
+    <SuppID>S0000014</SuppID>
+    <SuppDesc>dental needle G30</SuppDesc>
+    <Qty>0</Qty>
+    <Unit>box</Unit>
+    <SalesPrice>0</SalesPrice>
+    <Status>1</Status>
+  </InventoryReport>
+  <InventoryReport>
+    <SuppID>S0000015</SuppID>
+    <SuppDesc>anesthesia Mepivastesin</SuppDesc>
+    <Qty>0</Qty>
+    <Unit>pcs</Unit>
+    <SalesPrice>0</SalesPrice>
+    <Status>1</Status>
+  </InventoryReport>
+  <InventoryReport>
+    <SuppID>S0000016</SuppID>
+    <SuppDesc>gloves</SuppDesc>
+    <Qty>0</Qty>
+    <Unit>boxes</Unit>
+    <SalesPrice>0</SalesPrice>
+    <Status>1</Status>
+  </InventoryReport>
+  <InventoryReport>
+    <SuppID>S0000017</SuppID>
+    <SuppDesc>dental bib</SuppDesc>
+    <Qty>0</Qty>
+    <Unit>packs</Unit>
+    <SalesPrice>0</SalesPrice>
+    <Status>1</Status>
+  </InventoryReport>
+  <InventoryReport>
+    <SuppID>S0000018</SuppID>
+    <SuppDesc>urbidontics (biofunctional brackets)</SuppDesc>
+    <Qty>0</Qty>
+    <Unit>set</Unit>
+    <SalesPrice>0</SalesPrice>
+    <Status>1</Status>
+  </InventoryReport>
+  <InventoryReport>
+    <SuppID>S0000019</SuppID>
+    <SuppDesc>edgewise brackets 022</SuppDesc>
+    <Qty>5</Qty>
+    <Unit>kits</Unit>
+    <SalesPrice>0</SalesPrice>
+    <Status>1</Status>
+  </InventoryReport>
+  <InventoryReport>
+    <SuppID>S0000020</SuppID>
+    <SuppDesc>Niti 012 U/L</SuppDesc>
+    <Qty>20</Qty>
+    <Unit>pcs</Unit>
+    <SalesPrice>100</SalesPrice>
+    <Status>1</Status>
+  </InventoryReport>
+  <InventoryReport>
+    <SuppID>S0000021</SuppID>
+    <SuppDesc>Niti 014 L</SuppDesc>
+    <Qty>20</Qty>
+    <Unit>pcs</Unit>
+    <SalesPrice>80</SalesPrice>
+    <Status>1</Status>
+  </InventoryReport>
+  <InventoryReport>
+    <SuppID>S0000022</SuppID>
+    <SuppDesc>Niti 016 L</SuppDesc>
+    <Qty>20</Qty>
+    <Unit>pcs</Unit>
+    <SalesPrice>80</SalesPrice>
+    <Status>1</Status>
+  </InventoryReport>
+  <InventoryReport>
+    <SuppID>S0000023</SuppID>
+    <SuppDesc>Niti 016 x 022 U</SuppDesc>
+    <Qty>20</Qty>
+    <Unit>pcs</Unit>
+    <SalesPrice>80</SalesPrice>
+    <Status>1</Status>
+  </InventoryReport>
+  <InventoryReport>
+    <SuppID>S0000024</SuppID>
+    <SuppDesc>Niti 017 x 025 U</SuppDesc>
+    <Qty>11</Qty>
+    <Unit>pcs</Unit>
+    <SalesPrice>80</SalesPrice>
+    <Status>1</Status>
+  </InventoryReport>
+  <InventoryReport>
+    <SuppID>S0000030</SuppID>
+    <SuppDesc>Tissue Paper</SuppDesc>
+    <Qty>0</Qty>
+    <Unit>pc</Unit>
+    <SalesPrice>0</SalesPrice>
+    <Status>1</Status>
+  </InventoryReport>
+  <InventoryReport>
+    <SuppID>S0000031</SuppID>
+    <SuppDesc>EF braces</SuppDesc>
+    <Qty>0</Qty>
+    <Unit>pc</Unit>
+    <SalesPrice>5000</SalesPrice>
+    <Status>1</Status>
+  </InventoryReport>
+</DocumentElement>

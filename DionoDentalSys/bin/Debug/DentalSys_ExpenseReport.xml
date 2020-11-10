@@ -1,0 +1,3225 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <ExpenseReport>
+    <Details>Food (Doc)</Details>
+    <Qty>1</Qty>
+    <Amount>60</Amount>
+    <Date>2014-05-01T00:00:00+08:00</Date>
+    <LName>Diono</LName>
+    <FName>Kathrina</FName>
+    <MName>M</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>Merienda</Details>
+    <Qty>1</Qty>
+    <Amount>475</Amount>
+    <Date>2014-05-01T00:00:00+08:00</Date>
+    <LName>Diono</LName>
+    <FName>Kathrina</FName>
+    <MName>M</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>Fare</Details>
+    <Qty>1</Qty>
+    <Amount>20</Amount>
+    <Date>2014-05-01T00:00:00+08:00</Date>
+    <LName>Diono</LName>
+    <FName>Kathrina</FName>
+    <MName>M</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>Doc Laundz</Details>
+    <Qty>1</Qty>
+    <Amount>2770</Amount>
+    <Date>2014-05-01T00:00:00+08:00</Date>
+    <LName>Diono</LName>
+    <FName>Kathrina</FName>
+    <MName>M</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>water</Details>
+    <Qty>1</Qty>
+    <Amount>120</Amount>
+    <Date>2014-05-02T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>lab-tisa</Details>
+    <Qty>1</Qty>
+    <Amount>500</Amount>
+    <Date>2014-05-02T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>load</Details>
+    <Qty>1</Qty>
+    <Amount>32</Amount>
+    <Date>2014-05-02T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>doc Laundz</Details>
+    <Qty>1</Qty>
+    <Amount>1540</Amount>
+    <Date>2014-05-02T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>load(doc)</Details>
+    <Qty>1</Qty>
+    <Amount>32</Amount>
+    <Date>2014-05-02T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>load(sir alex)</Details>
+    <Qty>1</Qty>
+    <Amount>32</Amount>
+    <Date>2014-05-02T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>kids</Details>
+    <Qty>1</Qty>
+    <Amount>200</Amount>
+    <Date>2014-05-02T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>food(doc)</Details>
+    <Qty>1</Qty>
+    <Amount>60</Amount>
+    <Date>2014-05-02T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>fare</Details>
+    <Qty>1</Qty>
+    <Amount>45</Amount>
+    <Date>2014-05-03T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>ablog</Details>
+    <Qty>1</Qty>
+    <Amount>10</Amount>
+    <Date>2014-05-03T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>cable</Details>
+    <Qty>1</Qty>
+    <Amount>950</Amount>
+    <Date>2014-05-03T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>merienda </Details>
+    <Qty>1</Qty>
+    <Amount>70</Amount>
+    <Date>2014-05-03T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>Doc Laundz</Details>
+    <Qty>1</Qty>
+    <Amount>5140</Amount>
+    <Date>2014-05-03T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>food (Doc)</Details>
+    <Qty>1</Qty>
+    <Amount>134</Amount>
+    <Date>2014-05-03T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>load</Details>
+    <Qty>1</Qty>
+    <Amount>49</Amount>
+    <Date>2014-05-06T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>fare</Details>
+    <Qty>1</Qty>
+    <Amount>32</Amount>
+    <Date>2014-05-06T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>lab-tisa</Details>
+    <Qty>1</Qty>
+    <Amount>775</Amount>
+    <Date>2014-05-06T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>supplies</Details>
+    <Qty>1</Qty>
+    <Amount>273</Amount>
+    <Date>2014-05-06T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>doc laundz</Details>
+    <Qty>1</Qty>
+    <Amount>240</Amount>
+    <Date>2014-05-06T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>load (doc)</Details>
+    <Qty>1</Qty>
+    <Amount>32</Amount>
+    <Date>2014-05-06T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>load (sir alex)</Details>
+    <Qty>1</Qty>
+    <Amount>32</Amount>
+    <Date>2014-05-06T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>fare phase1</Details>
+    <Qty>1</Qty>
+    <Amount>40</Amount>
+    <Date>2014-05-06T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>ma'am pearl</Details>
+    <Qty>1</Qty>
+    <Amount>3000</Amount>
+    <Date>2014-05-06T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>load</Details>
+    <Qty>1</Qty>
+    <Amount>32</Amount>
+    <Date>2014-05-08T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>YBL-Ablog charge</Details>
+    <Qty>1</Qty>
+    <Amount>15</Amount>
+    <Date>2014-05-08T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>fare </Details>
+    <Qty>1</Qty>
+    <Amount>60</Amount>
+    <Date>2014-05-08T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>lab-tisa</Details>
+    <Qty>1</Qty>
+    <Amount>2000</Amount>
+    <Date>2014-05-08T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>Merienda</Details>
+    <Qty>1</Qty>
+    <Amount>443</Amount>
+    <Date>2014-05-08T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>medicine (kids)</Details>
+    <Qty>1</Qty>
+    <Amount>550</Amount>
+    <Date>2014-05-08T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>kids</Details>
+    <Qty>1</Qty>
+    <Amount>200</Amount>
+    <Date>2014-05-08T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>laundry</Details>
+    <Qty>1</Qty>
+    <Amount>500</Amount>
+    <Date>2014-05-08T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>food (Doc)</Details>
+    <Qty>1</Qty>
+    <Amount>30</Amount>
+    <Date>2014-05-08T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>fare</Details>
+    <Qty>1</Qty>
+    <Amount>40</Amount>
+    <Date>2014-05-07T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>doc Laundz</Details>
+    <Qty>1</Qty>
+    <Amount>1410</Amount>
+    <Date>2014-05-07T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>canteen</Details>
+    <Qty>1</Qty>
+    <Amount>40</Amount>
+    <Date>2014-05-07T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>load (doc)</Details>
+    <Qty>1</Qty>
+    <Amount>32</Amount>
+    <Date>2014-05-07T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>load (sir alex)</Details>
+    <Qty>1</Qty>
+    <Amount>32</Amount>
+    <Date>2014-05-07T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>kids</Details>
+    <Qty>1</Qty>
+    <Amount>300</Amount>
+    <Date>2014-05-07T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>peanut butter</Details>
+    <Qty>1</Qty>
+    <Amount>300</Amount>
+    <Date>2014-05-07T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>water</Details>
+    <Qty>1</Qty>
+    <Amount>150</Amount>
+    <Date>2014-05-09T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>fare</Details>
+    <Qty>1</Qty>
+    <Amount>32</Amount>
+    <Date>2014-05-09T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>supplies</Details>
+    <Qty>1</Qty>
+    <Amount>162</Amount>
+    <Date>2014-05-09T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>merienda</Details>
+    <Qty>1</Qty>
+    <Amount>68</Amount>
+    <Date>2014-05-09T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>doc Laundz</Details>
+    <Qty>1</Qty>
+    <Amount>1170</Amount>
+    <Date>2014-05-09T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>load (doc)</Details>
+    <Qty>1</Qty>
+    <Amount>32</Amount>
+    <Date>2014-05-09T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>ma'am pearl</Details>
+    <Qty>1</Qty>
+    <Amount>3000</Amount>
+    <Date>2014-05-09T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>DVD</Details>
+    <Qty>1</Qty>
+    <Amount>150</Amount>
+    <Date>2014-05-09T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>fare</Details>
+    <Qty>1</Qty>
+    <Amount>26</Amount>
+    <Date>2014-05-10T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>load</Details>
+    <Qty>1</Qty>
+    <Amount>32</Amount>
+    <Date>2014-05-10T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>YBL freight</Details>
+    <Qty>1</Qty>
+    <Amount>100</Amount>
+    <Date>2014-05-10T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>Lab-Rm</Details>
+    <Qty>1</Qty>
+    <Amount>1400</Amount>
+    <Date>2014-05-10T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>doc Laundz</Details>
+    <Qty>1</Qty>
+    <Amount>4080</Amount>
+    <Date>2014-05-10T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>Food (Doc)</Details>
+    <Qty>1</Qty>
+    <Amount>85</Amount>
+    <Date>2014-05-10T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>load (sir alex)</Details>
+    <Qty>1</Qty>
+    <Amount>32</Amount>
+    <Date>2014-05-10T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>electricty and water</Details>
+    <Qty>1</Qty>
+    <Amount>3500</Amount>
+    <Date>2014-05-10T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>load</Details>
+    <Qty>1</Qty>
+    <Amount>32</Amount>
+    <Date>2014-05-13T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>lab-tisa</Details>
+    <Qty>1</Qty>
+    <Amount>450</Amount>
+    <Date>2014-05-13T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>fare</Details>
+    <Qty>1</Qty>
+    <Amount>35</Amount>
+    <Date>2014-05-13T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>YBL charge</Details>
+    <Qty>1</Qty>
+    <Amount>10</Amount>
+    <Date>2014-05-13T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>ink</Details>
+    <Qty>1</Qty>
+    <Amount>370</Amount>
+    <Date>2014-05-13T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>load (doc)</Details>
+    <Qty>1</Qty>
+    <Amount>32</Amount>
+    <Date>2014-05-13T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>load (sir alex)</Details>
+    <Qty>1</Qty>
+    <Amount>32</Amount>
+    <Date>2014-05-14T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>food-doc</Details>
+    <Qty>1</Qty>
+    <Amount>20</Amount>
+    <Date>2014-05-14T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>LBC-willy weng</Details>
+    <Qty>1</Qty>
+    <Amount>1500</Amount>
+    <Date>2014-05-14T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>fare LBC-charge</Details>
+    <Qty>1</Qty>
+    <Amount>50</Amount>
+    <Date>2014-05-14T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>load</Details>
+    <Qty>1</Qty>
+    <Amount>49</Amount>
+    <Date>2014-05-15T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>fare (aya &amp;chloie)</Details>
+    <Qty>1</Qty>
+    <Amount>77</Amount>
+    <Date>2014-05-15T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>addtional for ink</Details>
+    <Qty>1</Qty>
+    <Amount>20</Amount>
+    <Date>2014-05-15T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>YBL+ablog charge</Details>
+    <Qty>1</Qty>
+    <Amount>20</Amount>
+    <Date>2014-05-15T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>vuda (supplies)</Details>
+    <Qty>1</Qty>
+    <Amount>530</Amount>
+    <Date>2014-05-15T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>additional for LBC charge</Details>
+    <Qty>1</Qty>
+    <Amount>43</Amount>
+    <Date>2014-05-15T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>kids</Details>
+    <Qty>1</Qty>
+    <Amount>200</Amount>
+    <Date>2014-05-15T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>load (doc)</Details>
+    <Qty>1</Qty>
+    <Amount>32</Amount>
+    <Date>2014-05-15T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>rice one sck.</Details>
+    <Qty>1</Qty>
+    <Amount>2190</Amount>
+    <Date>2014-05-15T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>food kids+fruits (doc)+ kids allowance</Details>
+    <Qty>1</Qty>
+    <Amount>338</Amount>
+    <Date>2014-05-15T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>In-house FS (RCBC)</Details>
+    <Qty>1</Qty>
+    <Amount>1500</Amount>
+    <Date>2014-05-15T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>lab-tisa</Details>
+    <Qty>1</Qty>
+    <Amount>1200</Amount>
+    <Date>2014-05-16T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>supplies</Details>
+    <Qty>1</Qty>
+    <Amount>477</Amount>
+    <Date>2014-05-16T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>fare</Details>
+    <Qty>1</Qty>
+    <Amount>20</Amount>
+    <Date>2014-05-16T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>load (sir alex)</Details>
+    <Qty>1</Qty>
+    <Amount>32</Amount>
+    <Date>2014-05-16T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>fare (kids/fe)</Details>
+    <Qty>1</Qty>
+    <Amount>20</Amount>
+    <Date>2014-05-16T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>ma'am pearl</Details>
+    <Qty>1</Qty>
+    <Amount>2000</Amount>
+    <Date>2014-05-16T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>Food (Doc)</Details>
+    <Qty>1</Qty>
+    <Amount>30</Amount>
+    <Date>2014-05-16T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>supplies (toothpaste/cups)</Details>
+    <Qty>1</Qty>
+    <Amount>73</Amount>
+    <Date>2014-05-21T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>load</Details>
+    <Qty>1</Qty>
+    <Amount>31</Amount>
+    <Date>2014-05-21T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>fare</Details>
+    <Qty>1</Qty>
+    <Amount>20</Amount>
+    <Date>2014-05-21T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>lab-Davao</Details>
+    <Qty>1</Qty>
+    <Amount>1200</Amount>
+    <Date>2014-05-21T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>YBL</Details>
+    <Qty>1</Qty>
+    <Amount>100</Amount>
+    <Date>2014-05-21T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>food-doc+Thomas</Details>
+    <Qty>1</Qty>
+    <Amount>195</Amount>
+    <Date>2014-05-21T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>Metrobank-visa</Details>
+    <Qty>1</Qty>
+    <Amount>1000</Amount>
+    <Date>2014-05-21T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>Paint (Phase1)</Details>
+    <Qty>1</Qty>
+    <Amount>500</Amount>
+    <Date>2014-05-21T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>peanut butter</Details>
+    <Qty>1</Qty>
+    <Amount>1400</Amount>
+    <Date>2014-05-21T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>fare (aya &amp;chloie) 5/21</Details>
+    <Qty>1</Qty>
+    <Amount>95</Amount>
+    <Date>2014-05-22T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>YBL charge</Details>
+    <Qty>1</Qty>
+    <Amount>20</Amount>
+    <Date>2014-05-22T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>key duplication</Details>
+    <Qty>1</Qty>
+    <Amount>50</Amount>
+    <Date>2014-05-22T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>load (doc)</Details>
+    <Qty>1</Qty>
+    <Amount>32</Amount>
+    <Date>2014-05-22T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>food-doc</Details>
+    <Qty>1</Qty>
+    <Amount>83</Amount>
+    <Date>2014-05-22T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>LBC charge-willy weng 5/21</Details>
+    <Qty>1</Qty>
+    <Amount>50</Amount>
+    <Date>2014-05-22T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>kids + fare</Details>
+    <Qty>1</Qty>
+    <Amount>520</Amount>
+    <Date>2014-05-22T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>doc joy</Details>
+    <Qty>1</Qty>
+    <Amount>500</Amount>
+    <Date>2014-05-22T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>paper bag</Details>
+    <Qty>1</Qty>
+    <Amount>57</Amount>
+    <Date>2014-05-23T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>fare</Details>
+    <Qty>1</Qty>
+    <Amount>20</Amount>
+    <Date>2014-05-23T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>food-doc+Thomas</Details>
+    <Qty>1</Qty>
+    <Amount>67</Amount>
+    <Date>2014-05-23T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>kuya</Details>
+    <Qty>1</Qty>
+    <Amount>100</Amount>
+    <Date>2014-05-23T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>doc joy</Details>
+    <Qty>1</Qty>
+    <Amount>12400</Amount>
+    <Date>2014-05-23T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>lab-tisa</Details>
+    <Qty>1</Qty>
+    <Amount>500</Amount>
+    <Date>2014-05-24T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>load</Details>
+    <Qty>1</Qty>
+    <Amount>32</Amount>
+    <Date>2014-05-24T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>merienda</Details>
+    <Qty>1</Qty>
+    <Amount>268</Amount>
+    <Date>2014-05-24T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>fare</Details>
+    <Qty>1</Qty>
+    <Amount>40</Amount>
+    <Date>2014-05-24T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>water</Details>
+    <Qty>1</Qty>
+    <Amount>150</Amount>
+    <Date>2014-05-24T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>Doc Laundz</Details>
+    <Qty>1</Qty>
+    <Amount>3420</Amount>
+    <Date>2014-05-24T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>food-doc</Details>
+    <Qty>1</Qty>
+    <Amount>25</Amount>
+    <Date>2014-05-24T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>load (doc)</Details>
+    <Qty>1</Qty>
+    <Amount>32</Amount>
+    <Date>2014-05-24T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>load (sir alex)</Details>
+    <Qty>1</Qty>
+    <Amount>64</Amount>
+    <Date>2014-05-24T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>ate bebeth (fare) out</Details>
+    <Qty>1</Qty>
+    <Amount>100</Amount>
+    <Date>2014-05-24T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>load (doc)</Details>
+    <Qty>1</Qty>
+    <Amount>96</Amount>
+    <Date>2014-05-27T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>load (clinic)</Details>
+    <Qty>1</Qty>
+    <Amount>32</Amount>
+    <Date>2014-05-27T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>fare</Details>
+    <Qty>1</Qty>
+    <Amount>38</Amount>
+    <Date>2014-05-27T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>kuya</Details>
+    <Qty>1</Qty>
+    <Amount>500</Amount>
+    <Date>2014-05-27T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>YBL</Details>
+    <Qty>1</Qty>
+    <Amount>20</Amount>
+    <Date>2014-05-27T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>ablog</Details>
+    <Qty>1</Qty>
+    <Amount>5</Amount>
+    <Date>2014-05-27T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>food-doc</Details>
+    <Qty>1</Qty>
+    <Amount>40</Amount>
+    <Date>2014-05-27T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>RM Lab</Details>
+    <Qty>1</Qty>
+    <Amount>1600</Amount>
+    <Date>2014-05-27T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>Rm Frieght</Details>
+    <Qty>1</Qty>
+    <Amount>100</Amount>
+    <Date>2014-05-27T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>cleaning aircon</Details>
+    <Qty>1</Qty>
+    <Amount>500</Amount>
+    <Date>2014-05-27T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>fare (kaye)</Details>
+    <Qty>1</Qty>
+    <Amount>20</Amount>
+    <Date>2014-05-27T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>fare (chloie)</Details>
+    <Qty>1</Qty>
+    <Amount>20</Amount>
+    <Date>2014-05-27T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>doc joy</Details>
+    <Qty>1</Qty>
+    <Amount>2000</Amount>
+    <Date>2014-05-27T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>load</Details>
+    <Qty>1</Qty>
+    <Amount>32</Amount>
+    <Date>2014-05-28T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>fare</Details>
+    <Qty>1</Qty>
+    <Amount>48</Amount>
+    <Date>2014-05-28T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>lab-rm-additional</Details>
+    <Qty>1</Qty>
+    <Amount>600</Amount>
+    <Date>2014-05-28T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>Doc Laundz</Details>
+    <Qty>1</Qty>
+    <Amount>400</Amount>
+    <Date>2014-05-28T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>NSO + fare</Details>
+    <Qty>1</Qty>
+    <Amount>848</Amount>
+    <Date>2014-05-28T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>fare</Details>
+    <Qty>1</Qty>
+    <Amount>40</Amount>
+    <Date>2014-05-29T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>face mask</Details>
+    <Qty>1</Qty>
+    <Amount>240</Amount>
+    <Date>2014-05-29T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>load</Details>
+    <Qty>1</Qty>
+    <Amount>17</Amount>
+    <Date>2014-05-29T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>ink refill</Details>
+    <Qty>1</Qty>
+    <Amount>270</Amount>
+    <Date>2014-05-29T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>Doc Laundz</Details>
+    <Qty>1</Qty>
+    <Amount>120</Amount>
+    <Date>2014-05-29T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>load (doc)</Details>
+    <Qty>1</Qty>
+    <Amount>32</Amount>
+    <Date>2014-05-29T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>noodles</Details>
+    <Qty>1</Qty>
+    <Amount>25</Amount>
+    <Date>2014-05-29T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>kids</Details>
+    <Qty>1</Qty>
+    <Amount>500</Amount>
+    <Date>2014-05-29T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>notarization (affidavit) mineth</Details>
+    <Qty>1</Qty>
+    <Amount>500</Amount>
+    <Date>2014-05-29T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>etchant + bitewax</Details>
+    <Qty>1</Qty>
+    <Amount>700</Amount>
+    <Date>2014-05-30T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>fare</Details>
+    <Qty>1</Qty>
+    <Amount>20</Amount>
+    <Date>2014-05-30T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>load</Details>
+    <Qty>1</Qty>
+    <Amount>32</Amount>
+    <Date>2014-05-30T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>merienda</Details>
+    <Qty>1</Qty>
+    <Amount>120</Amount>
+    <Date>2014-05-30T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>lab-tisa</Details>
+    <Qty>1</Qty>
+    <Amount>500</Amount>
+    <Date>2014-05-30T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>fare</Details>
+    <Qty>1</Qty>
+    <Amount>60</Amount>
+    <Date>2014-05-31T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>lab-tisa</Details>
+    <Qty>1</Qty>
+    <Amount>500</Amount>
+    <Date>2014-05-31T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>Doc Laundz</Details>
+    <Qty>1</Qty>
+    <Amount>3220</Amount>
+    <Date>2014-05-31T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>food</Details>
+    <Qty>1</Qty>
+    <Amount>895</Amount>
+    <Date>2014-05-31T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>load (doc)</Details>
+    <Qty>1</Qty>
+    <Amount>32</Amount>
+    <Date>2014-05-31T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>food</Details>
+    <Qty>1</Qty>
+    <Amount>252</Amount>
+    <Date>2014-06-02T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>load</Details>
+    <Qty>1</Qty>
+    <Amount>32</Amount>
+    <Date>2014-06-03T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>fare</Details>
+    <Qty>1</Qty>
+    <Amount>28</Amount>
+    <Date>2014-06-03T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>correction fluid/ink</Details>
+    <Qty>1</Qty>
+    <Amount>50</Amount>
+    <Date>2014-06-03T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>load (doc)</Details>
+    <Qty>1</Qty>
+    <Amount>32</Amount>
+    <Date>2014-06-03T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>load (sir alex)</Details>
+    <Qty>1</Qty>
+    <Amount>32</Amount>
+    <Date>2014-06-03T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>fare </Details>
+    <Qty>1</Qty>
+    <Amount>58</Amount>
+    <Date>2014-06-04T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>YBL charge + freight</Details>
+    <Qty>1</Qty>
+    <Amount>130</Amount>
+    <Date>2014-06-04T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>lab-Davao</Details>
+    <Qty>1</Qty>
+    <Amount>7400</Amount>
+    <Date>2014-06-04T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>paper cups/sponge</Details>
+    <Qty>1</Qty>
+    <Amount>74</Amount>
+    <Date>2014-06-04T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>load</Details>
+    <Qty>1</Qty>
+    <Amount>32</Amount>
+    <Date>2014-06-04T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>lab-bula</Details>
+    <Qty>1</Qty>
+    <Amount>1450</Amount>
+    <Date>2014-06-04T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>merienda</Details>
+    <Qty>1</Qty>
+    <Amount>52</Amount>
+    <Date>2014-06-04T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>coffee + food </Details>
+    <Qty>1</Qty>
+    <Amount>67</Amount>
+    <Date>2014-06-04T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>load (sir alex)</Details>
+    <Qty>1</Qty>
+    <Amount>32</Amount>
+    <Date>2014-06-04T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>lab-bula</Details>
+    <Qty>1</Qty>
+    <Amount>3950</Amount>
+    <Date>2014-06-14T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>lab-tisa</Details>
+    <Qty>1</Qty>
+    <Amount>1200</Amount>
+    <Date>2014-06-14T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>load</Details>
+    <Qty>1</Qty>
+    <Amount>32</Amount>
+    <Date>2014-06-14T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>fare</Details>
+    <Qty>1</Qty>
+    <Amount>20</Amount>
+    <Date>2014-06-14T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>ton2x Lejarso</Details>
+    <Qty>1</Qty>
+    <Amount>3000</Amount>
+    <Date>2014-06-14T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>load</Details>
+    <Qty>1</Qty>
+    <Amount>32</Amount>
+    <Date>2014-06-17T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>YBL charge</Details>
+    <Qty>1</Qty>
+    <Amount>20</Amount>
+    <Date>2014-06-17T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>fare</Details>
+    <Qty>1</Qty>
+    <Amount>26</Amount>
+    <Date>2014-06-17T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>pontic (RPD)</Details>
+    <Qty>1</Qty>
+    <Amount>130</Amount>
+    <Date>2014-06-17T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>Ram</Details>
+    <Qty>1</Qty>
+    <Amount>500</Amount>
+    <Date>2014-06-17T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>load (doc)</Details>
+    <Qty>1</Qty>
+    <Amount>64</Amount>
+    <Date>2014-06-17T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>load (sir alex)</Details>
+    <Qty>1</Qty>
+    <Amount>32</Amount>
+    <Date>2014-06-17T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>merienda</Details>
+    <Qty>1</Qty>
+    <Amount>235</Amount>
+    <Date>2014-06-20T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>load</Details>
+    <Qty>1</Qty>
+    <Amount>17</Amount>
+    <Date>2014-06-20T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>fare</Details>
+    <Qty>1</Qty>
+    <Amount>63</Amount>
+    <Date>2014-06-20T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>YBL+ablog charge</Details>
+    <Qty>1</Qty>
+    <Amount>20</Amount>
+    <Date>2014-06-20T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>fare(ate bebeth/ Thomas)</Details>
+    <Qty>1</Qty>
+    <Amount>20</Amount>
+    <Date>2014-06-20T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>food-kids</Details>
+    <Qty>1</Qty>
+    <Amount>64</Amount>
+    <Date>2014-06-20T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>load</Details>
+    <Qty>1</Qty>
+    <Amount>32</Amount>
+    <Date>2014-07-01T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>fare</Details>
+    <Qty>1</Qty>
+    <Amount>75</Amount>
+    <Date>2014-07-01T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>walis tambo</Details>
+    <Qty>1</Qty>
+    <Amount>49.5</Amount>
+    <Date>2014-07-01T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>envelopes</Details>
+    <Qty>1</Qty>
+    <Amount>55</Amount>
+    <Date>2014-07-01T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>Merienda</Details>
+    <Qty>1</Qty>
+    <Amount>87.5</Amount>
+    <Date>2014-07-01T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>YBL charge</Details>
+    <Qty>1</Qty>
+    <Amount>20</Amount>
+    <Date>2014-07-01T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>load (doc)</Details>
+    <Qty>1</Qty>
+    <Amount>32</Amount>
+    <Date>2014-07-01T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>load (sir alex)</Details>
+    <Qty>1</Qty>
+    <Amount>32</Amount>
+    <Date>2014-07-01T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>buscopan</Details>
+    <Qty>1</Qty>
+    <Amount>84</Amount>
+    <Date>2014-07-01T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>S-kooken</Details>
+    <Qty>1</Qty>
+    <Amount>500</Amount>
+    <Date>2014-07-01T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>YBL</Details>
+    <Qty>1</Qty>
+    <Amount>20</Amount>
+    <Date>2014-07-02T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>fare</Details>
+    <Qty>1</Qty>
+    <Amount>51</Amount>
+    <Date>2014-07-02T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>load</Details>
+    <Qty>1</Qty>
+    <Amount>17</Amount>
+    <Date>2014-07-02T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>cups</Details>
+    <Qty>1</Qty>
+    <Amount>319</Amount>
+    <Date>2014-07-02T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>load (doc)</Details>
+    <Qty>1</Qty>
+    <Amount>32</Amount>
+    <Date>2014-07-02T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>load (sir alex)</Details>
+    <Qty>1</Qty>
+    <Amount>32</Amount>
+    <Date>2014-07-02T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>polynerve</Details>
+    <Qty>1</Qty>
+    <Amount>54</Amount>
+    <Date>2014-07-02T00:00:00+08:00</Date>
+    <LName>Lutero</LName>
+    <FName>Claudine Glo</FName>
+    <MName>C</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>load (clinic)</Details>
+    <Qty>1</Qty>
+    <Amount>32</Amount>
+    <Date>2014-07-08T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>fare</Details>
+    <Qty>1</Qty>
+    <Amount>70</Amount>
+    <Date>2014-07-08T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>load (clinic)</Details>
+    <Qty>1</Qty>
+    <Amount>17</Amount>
+    <Date>2014-07-08T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>Doc Laundz</Details>
+    <Qty>1</Qty>
+    <Amount>2220</Amount>
+    <Date>2014-07-08T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>YBL</Details>
+    <Qty>1</Qty>
+    <Amount>10</Amount>
+    <Date>2014-07-08T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>food (doc &amp; ram)</Details>
+    <Qty>1</Qty>
+    <Amount>78</Amount>
+    <Date>2014-07-08T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>load (doc)</Details>
+    <Qty>1</Qty>
+    <Amount>32</Amount>
+    <Date>2014-07-08T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>load (sir alex)</Details>
+    <Qty>1</Qty>
+    <Amount>32</Amount>
+    <Date>2014-07-08T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>magazine</Details>
+    <Qty>1</Qty>
+    <Amount>810</Amount>
+    <Date>2014-07-08T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>buscopan</Details>
+    <Qty>1</Qty>
+    <Amount>166</Amount>
+    <Date>2014-07-08T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>load</Details>
+    <Qty>1</Qty>
+    <Amount>32</Amount>
+    <Date>2014-07-05T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>food (doc laundz)</Details>
+    <Qty>1</Qty>
+    <Amount>20</Amount>
+    <Date>2014-07-05T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>Doc Laundz</Details>
+    <Qty>1</Qty>
+    <Amount>7000</Amount>
+    <Date>2014-07-05T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>lab-bula</Details>
+    <Qty>1</Qty>
+    <Amount>3200</Amount>
+    <Date>2014-07-05T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>Merienda</Details>
+    <Qty>1</Qty>
+    <Amount>420</Amount>
+    <Date>2014-07-05T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>Fare</Details>
+    <Qty>1</Qty>
+    <Amount>20</Amount>
+    <Date>2014-07-05T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>out</Details>
+    <Qty>1</Qty>
+    <Amount>500</Amount>
+    <Date>2014-07-05T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>water</Details>
+    <Qty>1</Qty>
+    <Amount>180</Amount>
+    <Date>2014-07-04T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>fare</Details>
+    <Qty>1</Qty>
+    <Amount>58</Amount>
+    <Date>2014-07-04T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>YBL+ablog charge</Details>
+    <Qty>1</Qty>
+    <Amount>20</Amount>
+    <Date>2014-07-04T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>load (doc)</Details>
+    <Qty>1</Qty>
+    <Amount>32</Amount>
+    <Date>2014-07-04T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>food-kids</Details>
+    <Qty>1</Qty>
+    <Amount>60</Amount>
+    <Date>2014-07-04T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>load</Details>
+    <Qty>1</Qty>
+    <Amount>32</Amount>
+    <Date>2014-07-10T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>riso</Details>
+    <Qty>1</Qty>
+    <Amount>80</Amount>
+    <Date>2014-07-10T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>bondpaper</Details>
+    <Qty>1</Qty>
+    <Amount>145</Amount>
+    <Date>2014-07-10T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>Fare</Details>
+    <Qty>1</Qty>
+    <Amount>53</Amount>
+    <Date>2014-07-10T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>syringe</Details>
+    <Qty>1</Qty>
+    <Amount>34</Amount>
+    <Date>2014-07-10T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>paper cups</Details>
+    <Qty>1</Qty>
+    <Amount>193</Amount>
+    <Date>2014-07-10T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>doc joy</Details>
+    <Qty>1</Qty>
+    <Amount>1500</Amount>
+    <Date>2014-07-10T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>food-kids</Details>
+    <Qty>1</Qty>
+    <Amount>85</Amount>
+    <Date>2014-07-10T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>Fare</Details>
+    <Qty>1</Qty>
+    <Amount>20</Amount>
+    <Date>2014-07-09T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>trash bag</Details>
+    <Qty>1</Qty>
+    <Amount>31</Amount>
+    <Date>2014-07-09T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>food (doc &amp; kids)</Details>
+    <Qty>1</Qty>
+    <Amount>164</Amount>
+    <Date>2014-07-09T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>load (doc)</Details>
+    <Qty>1</Qty>
+    <Amount>32</Amount>
+    <Date>2014-07-09T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>load (sir alex)</Details>
+    <Qty>1</Qty>
+    <Amount>32</Amount>
+    <Date>2014-07-09T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>kuya (cash)</Details>
+    <Qty>1</Qty>
+    <Amount>500</Amount>
+    <Date>2014-07-09T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>doc joy</Details>
+    <Qty>1</Qty>
+    <Amount>1013</Amount>
+    <Date>2014-07-09T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>load</Details>
+    <Qty>1</Qty>
+    <Amount>32</Amount>
+    <Date>2014-07-03T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>cable</Details>
+    <Qty>1</Qty>
+    <Amount>1490</Amount>
+    <Date>2014-07-03T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>YBL charge</Details>
+    <Qty>1</Qty>
+    <Amount>5</Amount>
+    <Date>2014-07-03T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>ink</Details>
+    <Qty>1</Qty>
+    <Amount>270</Amount>
+    <Date>2014-07-03T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>Fare</Details>
+    <Qty>1</Qty>
+    <Amount>58</Amount>
+    <Date>2014-07-03T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>food (ram)</Details>
+    <Qty>1</Qty>
+    <Amount>28</Amount>
+    <Date>2014-07-03T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>hardbound</Details>
+    <Qty>1</Qty>
+    <Amount>810</Amount>
+    <Date>2014-07-03T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>water</Details>
+    <Qty>3</Qty>
+    <Amount>90</Amount>
+    <Date>2014-07-17T00:00:00+08:00</Date>
+    <LName>Desquitado</LName>
+    <FName>Diadema</FName>
+    <MName>D</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>Power supply for scaler</Details>
+    <Qty>1</Qty>
+    <Amount>580</Amount>
+    <Date>2014-07-17T00:00:00+08:00</Date>
+    <LName>Desquitado</LName>
+    <FName>Diadema</FName>
+    <MName>D</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>Load (clinic)</Details>
+    <Qty>1</Qty>
+    <Amount>32</Amount>
+    <Date>2014-07-17T00:00:00+08:00</Date>
+    <LName>Desquitado</LName>
+    <FName>Diadema</FName>
+    <MName>D</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>YBL charge</Details>
+    <Qty>1</Qty>
+    <Amount>10</Amount>
+    <Date>2014-07-17T00:00:00+08:00</Date>
+    <LName>Desquitado</LName>
+    <FName>Diadema</FName>
+    <MName>D</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>* food- ram and thomas</Details>
+    <Qty>1</Qty>
+    <Amount>50</Amount>
+    <Date>2014-07-17T00:00:00+08:00</Date>
+    <LName>Desquitado</LName>
+    <FName>Diadema</FName>
+    <MName>D</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>fare (aya-banks 26.00 &amp; ate bebeth-flowers(maam pearl) 44.00</Details>
+    <Qty>1</Qty>
+    <Amount>70</Amount>
+    <Date>2014-07-17T00:00:00+08:00</Date>
+    <LName>Desquitado</LName>
+    <FName>Diadema</FName>
+    <MName>D</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>*flowers (maam pearl)</Details>
+    <Qty>1</Qty>
+    <Amount>700</Amount>
+    <Date>2014-07-17T00:00:00+08:00</Date>
+    <LName>Desquitado</LName>
+    <FName>Diadema</FName>
+    <MName>D</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>*van freight (flowers)</Details>
+    <Qty>1</Qty>
+    <Amount>50</Amount>
+    <Date>2014-07-17T00:00:00+08:00</Date>
+    <LName>Desquitado</LName>
+    <FName>Diadema</FName>
+    <MName>D</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>Fare</Details>
+    <Qty>1</Qty>
+    <Amount>73</Amount>
+    <Date>2014-07-11T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>YBL</Details>
+    <Qty>1</Qty>
+    <Amount>10</Amount>
+    <Date>2014-07-11T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>YBL</Details>
+    <Qty>1</Qty>
+    <Amount>10</Amount>
+    <Date>2014-07-11T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>Fare</Details>
+    <Qty>1</Qty>
+    <Amount>73</Amount>
+    <Date>2014-07-11T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>YBL</Details>
+    <Qty>1</Qty>
+    <Amount>10</Amount>
+    <Date>2014-07-11T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>Fare</Details>
+    <Qty>1</Qty>
+    <Amount>73</Amount>
+    <Date>2014-07-11T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>Merienda</Details>
+    <Qty>1</Qty>
+    <Amount>70</Amount>
+    <Date>2014-07-11T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>food-kids</Details>
+    <Qty>1</Qty>
+    <Amount>68</Amount>
+    <Date>2014-07-11T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>load (sir alex)</Details>
+    <Qty>1</Qty>
+    <Amount>32</Amount>
+    <Date>2014-07-11T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>load</Details>
+    <Qty>1</Qty>
+    <Amount>32</Amount>
+    <Date>2014-07-12T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>mais</Details>
+    <Qty>1</Qty>
+    <Amount>100</Amount>
+    <Date>2014-07-12T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>Merienda</Details>
+    <Qty>1</Qty>
+    <Amount>535</Amount>
+    <Date>2014-07-12T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>Fare</Details>
+    <Qty>1</Qty>
+    <Amount>85</Amount>
+    <Date>2014-07-12T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>Doc Laundz (food)</Details>
+    <Qty>1</Qty>
+    <Amount>218</Amount>
+    <Date>2014-07-12T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>Doc Laundz</Details>
+    <Qty>1</Qty>
+    <Amount>6150</Amount>
+    <Date>2014-07-12T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>lab-Davao/YBL</Details>
+    <Qty>1</Qty>
+    <Amount>700</Amount>
+    <Date>2014-07-12T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>rice</Details>
+    <Qty>1</Qty>
+    <Amount>2250</Amount>
+    <Date>2014-07-12T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>load (doc)</Details>
+    <Qty>1</Qty>
+    <Amount>32</Amount>
+    <Date>2014-07-12T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>fare (kids)</Details>
+    <Qty>1</Qty>
+    <Amount>20</Amount>
+    <Date>2014-07-12T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>ton2x Lejarso</Details>
+    <Qty>1</Qty>
+    <Amount>7500</Amount>
+    <Date>2014-07-12T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>laboratory (allaira)</Details>
+    <Qty>1</Qty>
+    <Amount>1114</Amount>
+    <Date>2014-07-12T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>Fare</Details>
+    <Qty>1</Qty>
+    <Amount>49</Amount>
+    <Date>2014-07-15T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>YBL/Ablog </Details>
+    <Qty>1</Qty>
+    <Amount>20</Amount>
+    <Date>2014-07-15T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>load</Details>
+    <Qty>1</Qty>
+    <Amount>32</Amount>
+    <Date>2014-07-15T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>supplies (towel,syringe,scalpel)</Details>
+    <Qty>1</Qty>
+    <Amount>417</Amount>
+    <Date>2014-07-15T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>LBC (pros-apac)</Details>
+    <Qty>1</Qty>
+    <Amount>160</Amount>
+    <Date>2014-07-15T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>water</Details>
+    <Qty>1</Qty>
+    <Amount>120</Amount>
+    <Date>2014-07-15T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>snacks</Details>
+    <Qty>1</Qty>
+    <Amount>180</Amount>
+    <Date>2014-07-15T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>Jun2x (allowance)</Details>
+    <Qty>1</Qty>
+    <Amount>500</Amount>
+    <Date>2014-07-15T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>load (sir alex)</Details>
+    <Qty>1</Qty>
+    <Amount>32</Amount>
+    <Date>2014-07-15T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>load (doc)</Details>
+    <Qty>1</Qty>
+    <Amount>32</Amount>
+    <Date>2014-07-15T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>Palawan</Details>
+    <Qty>1</Qty>
+    <Amount>1032</Amount>
+    <Date>2014-07-15T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>fare(ate bebeth)</Details>
+    <Qty>1</Qty>
+    <Amount>50</Amount>
+    <Date>2014-07-15T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>doc joy</Details>
+    <Qty>1</Qty>
+    <Amount>100</Amount>
+    <Date>2014-07-15T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>J'CO</Details>
+    <Qty>1</Qty>
+    <Amount>365</Amount>
+    <Date>2014-07-16T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>Fare</Details>
+    <Qty>1</Qty>
+    <Amount>45</Amount>
+    <Date>2014-07-16T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>mask</Details>
+    <Qty>1</Qty>
+    <Amount>240</Amount>
+    <Date>2014-07-16T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>mais</Details>
+    <Qty>1</Qty>
+    <Amount>40</Amount>
+    <Date>2014-07-16T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>load (doc)</Details>
+    <Qty>1</Qty>
+    <Amount>32</Amount>
+    <Date>2014-07-16T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>load (sir alex)</Details>
+    <Qty>1</Qty>
+    <Amount>32</Amount>
+    <Date>2014-07-16T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>meds dog</Details>
+    <Qty>1</Qty>
+    <Amount>100</Amount>
+    <Date>2014-07-16T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>Ton2x Lejarso</Details>
+    <Qty>1</Qty>
+    <Amount>4000</Amount>
+    <Date>2014-07-16T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>water</Details>
+    <Qty>1</Qty>
+    <Amount>90</Amount>
+    <Date>2014-07-17T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>power supply (scaler)</Details>
+    <Qty>1</Qty>
+    <Amount>580</Amount>
+    <Date>2014-07-17T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>Fare</Details>
+    <Qty>1</Qty>
+    <Amount>70</Amount>
+    <Date>2014-07-17T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>YBL charge</Details>
+    <Qty>1</Qty>
+    <Amount>10</Amount>
+    <Date>2014-07-17T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>load</Details>
+    <Qty>1</Qty>
+    <Amount>32</Amount>
+    <Date>2014-07-17T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>flowers (mam pearl)</Details>
+    <Qty>1</Qty>
+    <Amount>700</Amount>
+    <Date>2014-07-17T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>freight (van)</Details>
+    <Qty>1</Qty>
+    <Amount>50</Amount>
+    <Date>2014-07-17T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>freight (van)</Details>
+    <Qty>1</Qty>
+    <Amount>50</Amount>
+    <Date>2014-07-17T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>food (ram)</Details>
+    <Qty>1</Qty>
+    <Amount>50</Amount>
+    <Date>2014-07-17T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>Fare</Details>
+    <Qty>1</Qty>
+    <Amount>28</Amount>
+    <Date>2014-07-18T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>mais</Details>
+    <Qty>1</Qty>
+    <Amount>20</Amount>
+    <Date>2014-07-18T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>food-kids/noodles (doc)</Details>
+    <Qty>1</Qty>
+    <Amount>80</Amount>
+    <Date>2014-07-18T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>load (doc)</Details>
+    <Qty>1</Qty>
+    <Amount>32</Amount>
+    <Date>2014-07-18T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>load (sir alex)</Details>
+    <Qty>1</Qty>
+    <Amount>32</Amount>
+    <Date>2014-07-18T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>Jun2x (physics subject)</Details>
+    <Qty>1</Qty>
+    <Amount>200</Amount>
+    <Date>2014-07-18T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>doc joy</Details>
+    <Qty>1</Qty>
+    <Amount>4570</Amount>
+    <Date>2014-07-18T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>Upholstery (partial)</Details>
+    <Qty>1</Qty>
+    <Amount>800</Amount>
+    <Date>2014-07-19T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>merienda+coffee</Details>
+    <Qty>1</Qty>
+    <Amount>503</Amount>
+    <Date>2014-07-19T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>Lab-Rm</Details>
+    <Qty>1</Qty>
+    <Amount>1200</Amount>
+    <Date>2014-07-19T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>load</Details>
+    <Qty>1</Qty>
+    <Amount>32</Amount>
+    <Date>2014-07-19T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>YBL charge + freight</Details>
+    <Qty>1</Qty>
+    <Amount>100</Amount>
+    <Date>2014-07-19T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>Fare</Details>
+    <Qty>1</Qty>
+    <Amount>10</Amount>
+    <Date>2014-07-19T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>Doc Laundz</Details>
+    <Qty>1</Qty>
+    <Amount>2872</Amount>
+    <Date>2014-07-19T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>Ton2x Lejarso</Details>
+    <Qty>1</Qty>
+    <Amount>4500</Amount>
+    <Date>2014-07-19T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>gasoline</Details>
+    <Qty>1</Qty>
+    <Amount>100</Amount>
+    <Date>2014-07-19T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>load</Details>
+    <Qty>1</Qty>
+    <Amount>32</Amount>
+    <Date>2014-07-22T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>Fare</Details>
+    <Qty>1</Qty>
+    <Amount>63</Amount>
+    <Date>2014-07-22T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>YBL charge</Details>
+    <Qty>1</Qty>
+    <Amount>10</Amount>
+    <Date>2014-07-22T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>load (doc)</Details>
+    <Qty>1</Qty>
+    <Amount>32</Amount>
+    <Date>2014-07-22T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>load (sir alex)</Details>
+    <Qty>1</Qty>
+    <Amount>64</Amount>
+    <Date>2014-07-22T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>mais</Details>
+    <Qty>1</Qty>
+    <Amount>250</Amount>
+    <Date>2014-07-22T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>Katanggawan (merienda)</Details>
+    <Qty>1</Qty>
+    <Amount>100</Amount>
+    <Date>2014-07-22T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>YBL charge + freight</Details>
+    <Qty>1</Qty>
+    <Amount>110</Amount>
+    <Date>2014-07-23T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>plastic cups/zonrox</Details>
+    <Qty>1</Qty>
+    <Amount>314</Amount>
+    <Date>2014-07-23T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>Fare</Details>
+    <Qty>1</Qty>
+    <Amount>75</Amount>
+    <Date>2014-07-23T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>Cutter (pahasa), out chloie</Details>
+    <Qty>1</Qty>
+    <Amount>50</Amount>
+    <Date>2014-07-23T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>merienda</Details>
+    <Qty>1</Qty>
+    <Amount>165</Amount>
+    <Date>2014-07-23T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>load (doc)</Details>
+    <Qty>1</Qty>
+    <Amount>32</Amount>
+    <Date>2014-07-23T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>food-kids</Details>
+    <Qty>1</Qty>
+    <Amount>70</Amount>
+    <Date>2014-07-23T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>doc joy</Details>
+    <Qty>1</Qty>
+    <Amount>3000</Amount>
+    <Date>2014-07-23T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>Cutter (pahasa)+lighter</Details>
+    <Qty>1</Qty>
+    <Amount>30</Amount>
+    <Date>2014-07-24T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>load</Details>
+    <Qty>1</Qty>
+    <Amount>32</Amount>
+    <Date>2014-07-24T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>Fare</Details>
+    <Qty>1</Qty>
+    <Amount>59</Amount>
+    <Date>2014-07-24T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>dog-meds</Details>
+    <Qty>1</Qty>
+    <Amount>200</Amount>
+    <Date>2014-07-24T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>load (doc and kuya)</Details>
+    <Qty>1</Qty>
+    <Amount>64</Amount>
+    <Date>2014-07-24T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>food</Details>
+    <Qty>1</Qty>
+    <Amount>157</Amount>
+    <Date>2014-07-24T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>Cutter (pahasa)+lighter</Details>
+    <Qty>1</Qty>
+    <Amount>30</Amount>
+    <Date>2014-07-24T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>load</Details>
+    <Qty>1</Qty>
+    <Amount>32</Amount>
+    <Date>2014-07-24T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>Fare</Details>
+    <Qty>1</Qty>
+    <Amount>59</Amount>
+    <Date>2014-07-24T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>dog-meds</Details>
+    <Qty>1</Qty>
+    <Amount>200</Amount>
+    <Date>2014-07-24T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>load (doc and kuya)</Details>
+    <Qty>1</Qty>
+    <Amount>64</Amount>
+    <Date>2014-07-24T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>food</Details>
+    <Qty>1</Qty>
+    <Amount>157</Amount>
+    <Date>2014-07-24T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>Fare</Details>
+    <Qty>1</Qty>
+    <Amount>18</Amount>
+    <Date>2014-07-25T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>Doc Laundz</Details>
+    <Qty>1</Qty>
+    <Amount>700</Amount>
+    <Date>2014-07-25T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>kuya (cash)</Details>
+    <Qty>1</Qty>
+    <Amount>2000</Amount>
+    <Date>2014-07-25T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>doc joy (cash)</Details>
+    <Qty>1</Qty>
+    <Amount>1000</Amount>
+    <Date>2014-07-25T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>ram (water)</Details>
+    <Qty>1</Qty>
+    <Amount>15</Amount>
+    <Date>2014-07-25T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+  <ExpenseReport>
+    <Details>food</Details>
+    <Qty>1</Qty>
+    <Amount>100</Amount>
+    <Date>2014-07-25T00:00:00+08:00</Date>
+    <LName>Belgica</LName>
+    <FName>Arlyn</FName>
+    <MName>R</MName>
+  </ExpenseReport>
+</DocumentElement>

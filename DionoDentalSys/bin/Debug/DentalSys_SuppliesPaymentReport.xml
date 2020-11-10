@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <SuppliesPaymentReport>
+    <Supplier>DENTAL DOMAIN</Supplier>
+    <Description>ereqwewe</Description>
+    <Cash>6000</Cash>
+    <Check>0</Check>
+    <Date>2014-04-16T00:00:00-07:00</Date>
+    <Name>Dental Domain Inc.</Name>
+    <Contact_x0023_>09071529743</Contact_x0023_>
+    <Address>General Santos City</Address>
+  </SuppliesPaymentReport>
+  <SuppliesPaymentReport>
+    <Supplier>DENTAL DOMAIN</Supplier>
+    <Description>ereqwewe</Description>
+    <Cash>1000</Cash>
+    <Check>0</Check>
+    <Date>2014-04-16T00:00:00-07:00</Date>
+    <Name>Dental Domain Inc.</Name>
+    <Contact_x0023_>09071529743</Contact_x0023_>
+    <Address>General Santos City</Address>
+  </SuppliesPaymentReport>
+  <SuppliesPaymentReport>
+    <Supplier>LZ</Supplier>
+    <Description>rqweqwe</Description>
+    <Cash>5000</Cash>
+    <Check>0</Check>
+    <Date>2014-04-16T00:00:00-07:00</Date>
+    <Name>qweqwe</Name>
+    <Contact_x0023_>066566</Contact_x0023_>
+    <Address>General Santos City</Address>
+  </SuppliesPaymentReport>
+  <SuppliesPaymentReport>
+    <Supplier>LZ</Supplier>
+    <Description>rqweqwe</Description>
+    <Cash>1000</Cash>
+    <Check>0</Check>
+    <Date>2014-04-16T00:00:00-07:00</Date>
+    <Name>qweqwe</Name>
+    <Contact_x0023_>066566</Contact_x0023_>
+    <Address>General Santos City</Address>
+  </SuppliesPaymentReport>
+</DocumentElement>

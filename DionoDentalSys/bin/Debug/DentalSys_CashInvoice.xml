@@ -1,0 +1,8 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <CashInvoice>
+    <Description>Ceramage</Description>
+    <Quantity>1</Quantity>
+    <Amount>200</Amount>
+  </CashInvoice>
+</DocumentElement>
