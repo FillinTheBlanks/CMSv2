@@ -1,8 +1,8 @@
 <?xml version="1.0" standalone="yes"?>
 <DocumentElement>
   <CashInvoice>
-    <Description>Ceramage</Description>
+    <Description>gengigel</Description>
     <Quantity>1</Quantity>
-    <Amount>200</Amount>
+    <Amount>120</Amount>
   </CashInvoice>
 </DocumentElement>

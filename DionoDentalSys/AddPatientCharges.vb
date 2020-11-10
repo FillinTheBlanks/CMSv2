@@ -275,14 +275,17 @@
         End Try
     End Sub
 
-    Private Sub PrintCashInvoice()
+    Private Sub PrintCashInvoice(ByVal invno As String)
         Dim bal, cash, total, change As Double
         opencon()
-        Dim transno As Integer = Integer.Parse(lbTransNo.Text) - 1
+        Dim transno As Integer = Integer.Parse(invno)
+        Dim dt = New DataTable()
         dt.Clear()
+        Console.WriteLine(transno)
         dt.TableName = "CashInvoice"
         Cmd.Parameters.Clear()
         Cmd.Parameters.AddWithValue("@orno", transno)
+        Cmd.CommandType = CommandType.Text
         Cmd.CommandText = "SELECT ServiceDesc as 'Description', Qty as 'Quantity', Amount as 'Amount' FROM request WHERE ReqID = @orno"
         Da.SelectCommand = Cmd
         Da.SelectCommand.ExecuteNonQuery()
@@ -334,8 +337,8 @@
 
         Dim caslipv As New CashInvoiceRptViewer
 
-        caslipv.LoadReport(Application.StartupPath + "\DentalSys_CashInvoice.xsd", _
-                               Application.StartupPath + "\DentalSys_CashInvoice.xml", _
+        caslipv.LoadReport(Application.StartupPath + "\DentalSys_CashInvoice.xsd",
+                               Application.StartupPath + "\DentalSys_CashInvoice.xml",
                                params)
         btnPrint.Enabled = False
     End Sub
@@ -582,9 +585,9 @@
 
     Private Sub btnPrint_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnPrint.Click
         If Not lvChargeList.Items.Count = 0 Then
-            Loading.Show()
-            Loading.BringToFront()
-            PrintCashInvoice()
+            'Loading.Show()
+            'Loading.BringToFront()
+            PrintCashInvoice(lbTransNo.Text)
         Else
             MsgBox("No records to be printed.")
         End If

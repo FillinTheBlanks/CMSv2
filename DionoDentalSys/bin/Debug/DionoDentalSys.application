@@ -7,14 +7,14 @@
     <framework targetVersion="4.7.2" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="DionoDentalSys.exe.manifest" size="30412">
+    <dependentAssembly dependencyType="install" codebase="DionoDentalSys.exe.manifest" size="30399">
       <assemblyIdentity name="DionoDentalSys.exe" version="1.0.0.36" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="x86" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>0BlNivqWTonDTbcqiJRA3TFfg9e5yi6LAfJOJXj+t+4=</dsig:DigestValue>
+        <dsig:DigestValue>R37ny/CcLn3Ycc8NjyTFb4/Ft4LkbjtINUJDfUOJAtQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
