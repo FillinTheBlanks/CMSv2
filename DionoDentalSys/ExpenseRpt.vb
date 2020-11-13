@@ -45,7 +45,7 @@ Public Class ExpenseRpt
     
     Public Overrides Property FullResourceName() As String
         Get
-            Return "DionoDentalSys.ExpenseRpt.rpt"
+            Return "ClinicMngtSysV2.ExpenseRpt.rpt"
         End Get
         Set
             'Do nothing

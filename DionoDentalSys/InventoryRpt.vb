@@ -45,7 +45,7 @@ Public Class InventoryRpt
     
     Public Overrides Property FullResourceName() As String
         Get
-            Return "DionoDentalSys.InventoryRpt.rpt"
+            Return "ClinicMngtSysV2.InventoryRpt.rpt"
         End Get
         Set
             'Do nothing

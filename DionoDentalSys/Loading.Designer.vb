@@ -31,8 +31,8 @@ Partial Class Loading
         Me.PictureBox1.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
                     Or System.Windows.Forms.AnchorStyles.Left) _
                     Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-        Me.PictureBox1.Image = Global.DionoDentalSys.My.Resources.Resources.animated
-        Me.PictureBox1.InitialImage = Global.DionoDentalSys.My.Resources.Resources.animated
+        Me.PictureBox1.Image = Global.ClinicMngtSysV2.My.Resources.Resources.animated
+        Me.PictureBox1.InitialImage = Global.ClinicMngtSysV2.My.Resources.Resources.animated
         Me.PictureBox1.Location = New System.Drawing.Point(-1, -1)
         Me.PictureBox1.Name = "PictureBox1"
         Me.PictureBox1.Size = New System.Drawing.Size(111, 111)

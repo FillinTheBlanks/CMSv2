@@ -32,12 +32,12 @@ Namespace My
         
         <Global.System.Diagnostics.DebuggerStepThroughAttribute()>  _
         Protected Overrides Sub OnCreateMainForm()
-            Me.MainForm = Global.DionoDentalSys.MainModule
+            Me.MainForm = Global.ClinicMngtSysV2.MainModule
         End Sub
         
         <Global.System.Diagnostics.DebuggerStepThroughAttribute()>  _
         Protected Overrides Sub OnCreateSplashScreen()
-            Me.SplashScreen = Global.DionoDentalSys.Loading
+            Me.SplashScreen = Global.ClinicMngtSysV2.Loading
         End Sub
     End Class
 End Namespace
