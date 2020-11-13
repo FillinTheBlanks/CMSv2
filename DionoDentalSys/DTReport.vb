@@ -45,7 +45,7 @@ Public Class DTReport
     
     Public Overrides Property FullResourceName() As String
         Get
-            Return "DionoDentalSys.DTReport.rpt"
+            Return "ClinicMngtSysV2.DTReport.rpt"
         End Get
         Set
             'Do nothing

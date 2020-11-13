@@ -45,7 +45,7 @@ Public Class CashInvoice
     
     Public Overrides Property FullResourceName() As String
         Get
-            Return "DionoDentalSys.CashInvoice.rpt"
+            Return "ClinicMngtSysV2.CashInvoice.rpt"
         End Get
         Set
             'Do nothing

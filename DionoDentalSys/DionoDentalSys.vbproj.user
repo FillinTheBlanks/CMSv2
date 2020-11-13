@@ -2,7 +2,7 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <ReferencePath>C:\Program Files\SAP BusinessObjects\Crystal Reports for .NET Framework 4.0\Common\SAP BusinessObjects Enterprise XI 4.0\win32_x86\dotnet\;C:\Program Files (x86)\SAP BusinessObjects\Crystal Reports for .NET Framework 4.0\Common\SAP BusinessObjects Enterprise XI 4.0\win32_x86\dotnet\</ReferencePath>
-    <PublishUrlHistory>D:\DionoDentalSys\|H:\FILES AND DOCUMENTS\Ampodia-Diono\April.6.2014\|G:\FILES AND DOCUMENTS\Ampodia-Diono\April.6.2014\|K:\FILES AND DOCUMENTS\Ampodia-Diono\April.6.2014\|H:\FILES AND DOCUMENTS\Ampodia-Diono\March.31.2014\DentalSyswithstdole\</PublishUrlHistory>
+    <PublishUrlHistory>D:\ClinicMngtSysV2\|D:\DionoDentalSys\|H:\FILES AND DOCUMENTS\Ampodia-Diono\April.6.2014\|G:\FILES AND DOCUMENTS\Ampodia-Diono\April.6.2014\|K:\FILES AND DOCUMENTS\Ampodia-Diono\April.6.2014\</PublishUrlHistory>
     <InstallUrlHistory />
     <SupportUrlHistory />
     <UpdateUrlHistory />
